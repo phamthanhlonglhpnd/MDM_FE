@@ -1,0 +1,7 @@
+const getCookieString = () => {
+
+}
+
+export {
+  getCookieString
+}
